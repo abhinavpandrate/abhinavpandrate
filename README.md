@@ -7,3 +7,4 @@ Cyber Security & Digital Forensics student at Kingston University. Shopify devel
 [![Website](https://img.shields.io/badge/Website-abhinavpandrate.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhinavpandrate.me)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPandrate&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPandrate&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="160">
